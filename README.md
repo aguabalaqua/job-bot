@@ -1,8 +1,6 @@
 # JOB BOT
 
-<p align="center">
-  <img src="public/jobbanner.png" alt="JOB BOT banner" width="100%" />
-</p>
+![JOB BOT banner](public/jobbanner.png)
 
 <p align="center">
   <strong>An autonomous 9-to-5 replacement agent built so you can focus on degen'ing.</strong>
