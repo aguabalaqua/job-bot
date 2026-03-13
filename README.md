@@ -1,7 +1,7 @@
 # JOB BOT
 
 <p align="center">
-  <img src="./assets/job-bot-banner.png" alt="JOB BOT banner" width="100%" />
+  <img src="./public/jobbanner.png" alt="JOB BOT banner" width="100%" />
 </p>
 
 <p align="center">
