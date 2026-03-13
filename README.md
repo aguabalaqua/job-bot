@@ -325,6 +325,7 @@ Responsibilities:
 09:15:22  1 message escalated for human review
 17:00:00  shift summary written
 17:00:01  CLOCK OUT
+```
 
 ## Example Use Cases
 
