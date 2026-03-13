@@ -1,0 +1,21 @@
+{
+    "name": "job-bot",
+    "version": "1.0.0",
+    "description": "Autonomous corporate workload agent",
+    "main": "dist/scripts/start-jobbot.js",
+    "scripts": {
+        "dev": "ts-node scripts/start-jobbot.ts",
+        "build": "tsc",
+        "start": "node dist/scripts/start-jobbot.js",
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "langchain": "^1.2.10"
+    },
+    "devDependencies": {
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.0",
+        "@types/node": "^20.12.0"
+    }
+}
