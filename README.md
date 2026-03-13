@@ -1,6 +1,10 @@
 # JOB BOT
 
+<p align="center">
+
 ![JOB BOT banner](public/jobbanner.png)
+
+</p>
 
 <p align="center">
   <strong>An autonomous 9-to-5 replacement agent built so you can focus on degen'ing.</strong>
